@@ -1,7 +1,7 @@
 # Redmi 13C 5G Air Resources
 All files required to unlock, root and optimize HyperOS for Redmi 13C 5G (Air)
 
-(Note : The resources in this repo are not made or modded by me, but this repo is just a collection of tools I found handy developed for Redmi 13C 5G)
+(Note : The resources in this repo are not made or modded by me, but this repo is just a collection of tools I found handy developed for Redmi 13Cmi 5G)
 (Note : This tool is only for Redmi 13C 5G (AIR) and not Redmi 13C (Gale), to check what is your system, go to settings)
 
 Resources Included in this repo:
